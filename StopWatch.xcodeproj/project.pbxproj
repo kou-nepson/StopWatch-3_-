@@ -14,6 +14,17 @@
 		1E59122E1DF14B7800329958 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E59122C1DF14B7800329958 /* LaunchScreen.storyboard */; };
 		1E5912391DF14B7800329958 /* StopWatchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5912381DF14B7800329958 /* StopWatchTests.swift */; };
 		1E5912441DF14B7800329958 /* StopWatchUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E5912431DF14B7800329958 /* StopWatchUITests.swift */; };
+		891A51FE1E55ECCE007366A2 /* RankingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 891A51FD1E55ECCE007366A2 /* RankingViewController.swift */; };
+		8926921F1EFA2D9F0030AE00 /* 背景.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8926921E1EFA2D9F0030AE00 /* 背景.jpg */; };
+		89B352C21EFA310600F48F7A /* IBDesign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B352C11EFA310600F48F7A /* IBDesign.swift */; };
+		89F467F21E596F59005CE114 /* 怪人（背景なし）.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89F467F11E596F59005CE114 /* 怪人（背景なし）.jpg */; };
+		89F467F41E596FC8005CE114 /* 足を食べる.png in Resources */ = {isa = PBXBuildFile; fileRef = 89F467F31E596FC8005CE114 /* 足を食べる.png */; };
+		89F467F61E5970AA005CE114 /* this is Nepson!.png in Resources */ = {isa = PBXBuildFile; fileRef = 89F467F51E5970AA005CE114 /* this is Nepson!.png */; };
+		89F467F81E5970B2005CE114 /* 怪人　激ヤバ.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 89F467F71E5970B2005CE114 /* 怪人　激ヤバ.jpg */; };
+		89F467FA1E5970D2005CE114 /* パンと恋する.png in Resources */ = {isa = PBXBuildFile; fileRef = 89F467F91E5970D2005CE114 /* パンと恋する.png */; };
+		89F467FD1E5980EC005CE114 /* プラス音声.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 89F467FB1E5980EC005CE114 /* プラス音声.m4a */; };
+		89F467FE1E5980EC005CE114 /* マイナス音声.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 89F467FC1E5980EC005CE114 /* マイナス音声.m4a */; };
+		89F468001E59865D005CE114 /* 必殺.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 89F467FF1E59865D005CE114 /* 必殺.m4a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +58,17 @@
 		1E59123F1DF14B7800329958 /* StopWatchUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StopWatchUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E5912431DF14B7800329958 /* StopWatchUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StopWatchUITests.swift; sourceTree = "<group>"; };
 		1E5912451DF14B7800329958 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		891A51FD1E55ECCE007366A2 /* RankingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RankingViewController.swift; sourceTree = "<group>"; };
+		8926921E1EFA2D9F0030AE00 /* 背景.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "背景.jpg"; sourceTree = "<group>"; };
+		89B352C11EFA310600F48F7A /* IBDesign.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IBDesign.swift; sourceTree = "<group>"; };
+		89F467F11E596F59005CE114 /* 怪人（背景なし）.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "怪人（背景なし）.jpg"; sourceTree = "<group>"; };
+		89F467F31E596FC8005CE114 /* 足を食べる.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "足を食べる.png"; sourceTree = "<group>"; };
+		89F467F51E5970AA005CE114 /* this is Nepson!.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "this is Nepson!.png"; sourceTree = "<group>"; };
+		89F467F71E5970B2005CE114 /* 怪人　激ヤバ.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "怪人　激ヤバ.jpg"; sourceTree = "<group>"; };
+		89F467F91E5970D2005CE114 /* パンと恋する.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "パンと恋する.png"; sourceTree = "<group>"; };
+		89F467FB1E5980EC005CE114 /* プラス音声.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "プラス音声.m4a"; sourceTree = "<group>"; };
+		89F467FC1E5980EC005CE114 /* マイナス音声.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "マイナス音声.m4a"; sourceTree = "<group>"; };
+		89F467FF1E59865D005CE114 /* 必殺.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = "必殺.m4a"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,7 +119,18 @@
 		1E5912221DF14B7800329958 /* StopWatch */ = {
 			isa = PBXGroup;
 			children = (
+				8926921E1EFA2D9F0030AE00 /* 背景.jpg */,
+				89F467F31E596FC8005CE114 /* 足を食べる.png */,
+				89F467F71E5970B2005CE114 /* 怪人　激ヤバ.jpg */,
+				89F467F11E596F59005CE114 /* 怪人（背景なし）.jpg */,
+				89F467F91E5970D2005CE114 /* パンと恋する.png */,
+				89F467F51E5970AA005CE114 /* this is Nepson!.png */,
+				89F467FB1E5980EC005CE114 /* プラス音声.m4a */,
+				89F467FC1E5980EC005CE114 /* マイナス音声.m4a */,
+				89F467FF1E59865D005CE114 /* 必殺.m4a */,
+				89B352C11EFA310600F48F7A /* IBDesign.swift */,
 				1E5912231DF14B7800329958 /* AppDelegate.swift */,
+				891A51FD1E55ECCE007366A2 /* RankingViewController.swift */,
 				1E5912251DF14B7800329958 /* ViewController.swift */,
 				1E5912271DF14B7800329958 /* Main.storyboard */,
 				1E59122A1DF14B7800329958 /* Assets.xcassets */,
@@ -193,6 +226,7 @@
 				TargetAttributes = {
 					1E59121F1DF14B7800329958 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = NV6EXP3568;
 						ProvisioningStyle = Automatic;
 					};
 					1E5912331DF14B7800329958 = {
@@ -232,9 +266,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8926921F1EFA2D9F0030AE00 /* 背景.jpg in Resources */,
+				89F467F41E596FC8005CE114 /* 足を食べる.png in Resources */,
+				89F467FA1E5970D2005CE114 /* パンと恋する.png in Resources */,
+				89F467F21E596F59005CE114 /* 怪人（背景なし）.jpg in Resources */,
+				89F468001E59865D005CE114 /* 必殺.m4a in Resources */,
+				89F467FD1E5980EC005CE114 /* プラス音声.m4a in Resources */,
+				89F467F61E5970AA005CE114 /* this is Nepson!.png in Resources */,
 				1E59122E1DF14B7800329958 /* LaunchScreen.storyboard in Resources */,
 				1E59122B1DF14B7800329958 /* Assets.xcassets in Resources */,
 				1E5912291DF14B7800329958 /* Main.storyboard in Resources */,
+				89F467FE1E5980EC005CE114 /* マイナス音声.m4a in Resources */,
+				89F467F81E5970B2005CE114 /* 怪人　激ヤバ.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +304,8 @@
 			files = (
 				1E5912261DF14B7800329958 /* ViewController.swift in Sources */,
 				1E5912241DF14B7800329958 /* AppDelegate.swift in Sources */,
+				89B352C21EFA310600F48F7A /* IBDesign.swift in Sources */,
+				891A51FE1E55ECCE007366A2 /* RankingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -410,7 +455,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = StopWatch/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nepuson.StopWatch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -422,7 +469,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NV6EXP3568;
 				INFOPLIST_FILE = StopWatch/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.nepuson.StopWatch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -503,6 +552,7 @@
 				1E59124A1DF14B7800329958 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E59124B1DF14B7800329958 /* Build configuration list for PBXNativeTarget "StopWatchTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +561,7 @@
 				1E59124D1DF14B7800329958 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1E59124E1DF14B7800329958 /* Build configuration list for PBXNativeTarget "StopWatchUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +570,7 @@
 				1E5912501DF14B7800329958 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
